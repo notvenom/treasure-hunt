@@ -1,3 +1,5 @@
+> **UPDATE**: Sign-ups are now open again!
+
 # Treasure Hunt
 
 Get 800GB free on Treasure Cloud

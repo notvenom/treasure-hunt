@@ -1,12 +1,8 @@
 {
-  "name": "puppy",
-  "version": "1.0.0",
   "main": "script.ts",
   "scripts": {
     "start": "ts-node ."
   },
-  "repository": "https://github.com/maximousblk/puppy",
-  "author": "Maximous Black <maximousblk@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "async-await-retry": "^1.2.1",
